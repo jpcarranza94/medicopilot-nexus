@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "description": "Configuration file for PLM medication scraping - specify which medications to extract",
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "indication": "pharyngitis",
+      "priority": "high",
+      "notes": "First-line antibiotic for strep throat"
+    },
+    {
+      "generic_name": "azitromicina",
+      "indication": "pharyngitis",
+      "priority": "medium",
+      "notes": "Alternative for penicillin-allergic patients"
+    },
+    {
+      "generic_name": "ciprofloxacino",
+      "indication": "uti",
+      "priority": "high",
+      "notes": "Broad-spectrum for complicated UTI"
+    },
+    {
+      "generic_name": "nitrofurantoína",
+      "indication": "uti",
+      "priority": "high",
+      "notes": "First-line for uncomplicated UTI"
+    },
+    {
+      "generic_name": "trimetoprim sulfametoxazol",
+      "indication": "uti",
+      "priority": "medium",
+      "notes": "Alternative UTI treatment (TMP-SMX)"
+    },
+    {
+      "generic_name": "ceftriaxona",
+      "indication": "both",
+      "priority": "low",
+      "notes": "Reserve antibiotic for severe infections"
+    },
+    {
+      "generic_name": "paracetamol",
+      "indication": "both",
+      "priority": "high",
+      "notes": "Analgesic/antipyretic for symptom relief"
+    }
+  ],
+  "scraper_settings": {
+    "delay_between_requests": 3,
+    "max_retries": 3,
+    "timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
+}

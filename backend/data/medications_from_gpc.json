@@ -1,0 +1,257 @@
+{
+  "version": "1.0",
+  "description": "Medications extracted from IMSS GPC documents for MediCopilot",
+  "source": "GPC (Gu��as de Práctica Clínica) - IMSS 2017-2024",
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "First-line antibiotic for outpatient CAP"
+    },
+    {
+      "generic_name": "amoxicilina clavulanato",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "Alternative beta-lactam for outpatient"
+    },
+    {
+      "generic_name": "azitromicina",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "Macrolide - first-line or combination therapy"
+    },
+    {
+      "generic_name": "claritromicina",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "medium",
+      "notes": "Alternative macrolide"
+    },
+    {
+      "generic_name": "levofloxacino",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "Fluoroquinolone for moderate-severe CAP"
+    },
+    {
+      "generic_name": "moxifloxacino",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "medium",
+      "notes": "Alternative fluoroquinolone"
+    },
+    {
+      "generic_name": "doxiciclina",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "medium",
+      "notes": "Alternative for outpatient CAP"
+    },
+    {
+      "generic_name": "ceftriaxona",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "3rd gen cephalosporin - hospitalized CAP"
+    },
+    {
+      "generic_name": "cefotaxima",
+      "gpc_source": ["neumonia"],
+      "indication": "neumonía",
+      "priority": "high",
+      "notes": "Alternative 3rd gen cephalosporin"
+    },
+    {
+      "generic_name": "metformina",
+      "gpc_source": ["diabetes"],
+      "indication": "diabetes mellitus tipo 2",
+      "priority": "high",
+      "notes": "First-line oral antidiabetic"
+    },
+    {
+      "generic_name": "glibenclamida",
+      "gpc_source": ["diabetes", "cardiopatia"],
+      "indication": "diabetes mellitus tipo 2",
+      "priority": "medium",
+      "notes": "Sulfonylurea - second-line"
+    },
+    {
+      "generic_name": "insulina",
+      "gpc_source": ["diabetes", "obesidad"],
+      "indication": "diabetes mellitus",
+      "priority": "high",
+      "notes": "Various formulations - Type 1 and advanced Type 2"
+    },
+    {
+      "generic_name": "enalapril",
+      "gpc_source": ["cardiopatia", "hipertension"],
+      "indication": "hipertensión, cardiopatía",
+      "priority": "high",
+      "notes": "ACE inhibitor"
+    },
+    {
+      "generic_name": "captopril",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión, cardiopatía",
+      "priority": "medium",
+      "notes": "ACE inhibitor - alternative"
+    },
+    {
+      "generic_name": "losartan",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "high",
+      "notes": "ARB (angiotensin receptor blocker)"
+    },
+    {
+      "generic_name": "valsartan",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "medium",
+      "notes": "ARB - alternative"
+    },
+    {
+      "generic_name": "telmisartan",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "medium",
+      "notes": "ARB - alternative"
+    },
+    {
+      "generic_name": "amlodipino",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "high",
+      "notes": "Calcium channel blocker"
+    },
+    {
+      "generic_name": "nifedipino",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "medium",
+      "notes": "Calcium channel blocker - alternative"
+    },
+    {
+      "generic_name": "verapamilo",
+      "gpc_source": ["cardiopatia"],
+      "indication": "hipertensión",
+      "priority": "medium",
+      "notes": "Calcium channel blocker - alternative"
+    },
+    {
+      "generic_name": "metoprolol",
+      "gpc_source": ["cardiopatia"],
+      "indication": "cardiopatía, hipertensión",
+      "priority": "high",
+      "notes": "Beta blocker"
+    },
+    {
+      "generic_name": "propranolol",
+      "gpc_source": ["cardiopatia", "cefalea", "obesidad"],
+      "indication": "cardiopatía, migraña",
+      "priority": "medium",
+      "notes": "Beta blocker - also for migraine prophylaxis"
+    },
+    {
+      "generic_name": "atorvastatina",
+      "gpc_source": ["cardiopatia", "dislipidemias"],
+      "indication": "dislipidemia",
+      "priority": "high",
+      "notes": "Statin - first-line for dyslipidemia"
+    },
+    {
+      "generic_name": "simvastatina",
+      "gpc_source": ["dislipidemias"],
+      "indication": "dislipidemia",
+      "priority": "medium",
+      "notes": "Statin - alternative"
+    },
+    {
+      "generic_name": "pravastatina",
+      "gpc_source": ["cardiopatia"],
+      "indication": "dislipidemia",
+      "priority": "medium",
+      "notes": "Statin - alternative"
+    },
+    {
+      "generic_name": "furosemida",
+      "gpc_source": ["diabetes", "cardiopatia"],
+      "indication": "edema, insuficiencia cardíaca",
+      "priority": "high",
+      "notes": "Loop diuretic"
+    },
+    {
+      "generic_name": "hidroclorotiazida",
+      "gpc_source": ["hipertension"],
+      "indication": "hipertensión",
+      "priority": "high",
+      "notes": "Thiazide diuretic"
+    },
+    {
+      "generic_name": "paracetamol",
+      "gpc_source": ["cefalea"],
+      "indication": "dolor, fiebre, cefalea",
+      "priority": "high",
+      "notes": "Analgesic/antipyretic - first-line"
+    },
+    {
+      "generic_name": "ibuprofeno",
+      "gpc_source": ["cefalea"],
+      "indication": "dolor, inflamación, cefalea",
+      "priority": "high",
+      "notes": "NSAID"
+    },
+    {
+      "generic_name": "ketorolaco",
+      "gpc_source": ["cefalea"],
+      "indication": "dolor moderado a severo",
+      "priority": "medium",
+      "notes": "NSAID - stronger"
+    },
+    {
+      "generic_name": "naproxeno",
+      "gpc_source": ["cefalea"],
+      "indication": "dolor, inflamación",
+      "priority": "medium",
+      "notes": "NSAID - alternative"
+    },
+    {
+      "generic_name": "omeprazol",
+      "gpc_source": ["gastritis"],
+      "indication": "gastritis, ERGE",
+      "priority": "high",
+      "notes": "PPI (proton pump inhibitor)"
+    },
+    {
+      "generic_name": "ranitidina",
+      "gpc_source": ["gastritis"],
+      "indication": "gastritis, ERGE",
+      "priority": "medium",
+      "notes": "H2 blocker - alternative"
+    },
+    {
+      "generic_name": "aspirina",
+      "gpc_source": ["cardiopatia"],
+      "indication": "prevención cardiovascular",
+      "priority": "high",
+      "notes": "Antiplatelet agent"
+    },
+    {
+      "generic_name": "clopidogrel",
+      "gpc_source": ["cardiopatia"],
+      "indication": "prevención cardiovascular",
+      "priority": "high",
+      "notes": "Antiplatelet - post-ACS"
+    }
+  ],
+  "scraper_settings": {
+    "delay_between_requests": 4,
+    "max_retries": 3,
+    "timeout": 30
+  }
+}

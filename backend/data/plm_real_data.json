@@ -1,0 +1,155 @@
+{
+  "version": "1.0",
+  "source": "PLM (medicamentosplm.com) - Real scraped data",
+  "scraped_at": "2025-10-24 15:44:16",
+  "total_medications": 1,
+  "successful_scrapes": 1,
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "indication": "pharyngitis",
+      "priority": "high",
+      "brands": [
+        {
+          "brand_name": "AMOXICILINA",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "1 Caja, 10 Cápsulas, 250 Miligramos",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_capsulas/10/101/64766/14",
+          "product_id": "64766"
+        },
+        {
+          "brand_name": "AMOXICILINA",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "1 Caja, 12 Cárpulas, 500 Miligramos",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_capsulas/10/101/64766/14",
+          "product_id": "64766"
+        },
+        {
+          "brand_name": "AMOXICILINA",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "1 Caja, 15 Cápsulas, 500 Miligramos",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_capsulas/10/101/64766/14",
+          "product_id": "64766"
+        },
+        {
+          "brand_name": "AMOXICILINA",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo para reconstituir, 75 ml, 250/5 mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_suspension/10/101/64767/194",
+          "product_id": "64767"
+        },
+        {
+          "brand_name": "AMOXICILINA",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo para reconstituir, 75 ml, 500/5 mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_suspension/10/101/64767/194",
+          "product_id": "64767"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "APOTEX",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "10 Tabletas , 875/125  Miligramos",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/2655/101/52530/210",
+          "product_id": "52530"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo, 60 ml, 125/31.25/5 mg/mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_suspension/10/101/65009/194",
+          "product_id": "65009"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo, 60 ml, 250/62.5/5 mg/mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_suspension/10/101/65009/194",
+          "product_id": "65009"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo, 50 ml, 200/28.57/5 mg/mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_suspension/10/101/65009/194",
+          "product_id": "65009"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco con polvo, 50 ml, 400/57.14/5 mg/mg/ml",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_suspension/10/101/65009/194",
+          "product_id": "65009"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 10 Tabletas, 500/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 12 Tabletas, 500/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 16 Tabletas, 500/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 6 Tabletas, 875/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 10 Tabletas, 875/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - ÁCIDO CLAVULÁNICO",
+          "laboratory": "AMSA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 1 Frasco(s), 12 Tabletas, 875/125 mg/mg",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_acido_clavulanico_tabletas/10/101/65010/210",
+          "product_id": "65010"
+        },
+        {
+          "brand_name": "AMOXICILINA - AMBROXOL",
+          "laboratory": "BRULUAGSA",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "1 Caja, 1 Envase(s) de burbuja, 12 Cápsulas, ",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxicilina_-_ambroxol_capsulas/32/101/62448/14",
+          "product_id": "62448"
+        }
+      ],
+      "scraped_at": "2025-10-24 15:44:03",
+      "scrape_status": "success",
+      "error_message": null
+    }
+  ]
+}

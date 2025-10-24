@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "description": "Retry failed medications with different spellings",
+  "medications": [
+    {
+      "generic_name": "azitromicina",
+      "indication": "pharyngitis",
+      "priority": "medium"
+    },
+    {
+      "generic_name": "nitrofurantoína",
+      "indication": "uti",
+      "priority": "high"
+    },
+    {
+      "generic_name": "trimetoprim",
+      "indication": "uti",
+      "priority": "medium"
+    },
+    {
+      "generic_name": "bactrim",
+      "indication": "uti",
+      "priority": "medium"
+    }
+  ]
+}

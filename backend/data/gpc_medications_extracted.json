@@ -1,0 +1,117 @@
+{
+  "medications": [
+    "Amoxicilina",
+    "Ceftriaxona",
+    "Glibenclamida",
+    "Ibuprofeno",
+    "Insulina",
+    "Levotiroxina",
+    "Metformina",
+    "Paracetamol",
+    "Sitagliptina"
+  ],
+  "contexts": {
+    "Glibenclamida": [
+      {
+        "document": "diabetes",
+        "context": "Diabetes Care 2011 \nFeb; 34(2):518–23. Cuadro 5. Fármacos insulino secretores: \n \nDosis y Potencia de Acción de las Sulfonilureas \nFármaco \nPresentación tabletas \nDosis diaria (mg) \nPotencia \nTolbutam..."
+      }
+    ],
+    "Sitagliptina": [
+      {
+        "document": "diabetes",
+        "context": "Diabetes Care 2011 \nFeb; 34(2):518–23. Cuadro 5. Fármacos insulino secretores: \n \nDosis y Potencia de Acción de las Sulfonilureas \nFármaco \nPresentación tabletas \nDosis diaria (mg) \nPotencia \nTolbutam..."
+      }
+    ],
+    "Metformina": [
+      {
+        "document": "diabetes",
+        "context": "Unicamente se deberán utilizar criterios de glucosa plasmática y no de HbA1c en condiciones que \nincrementen el recambio de glóbulos rojos, como el embarazo (en segundo y tercer trimestre), hemodiális..."
+      },
+      {
+        "document": "diabetes",
+        "context": " \n22 \n \nDiagnóstico y Tratamiento Farmacológico de la Diabetes Mellitus Tipo 2 en el Primer Nivel de Atención \nEn pacientes adultos con diagnóstico de diabetes mellitus tipo 2 en \ntratamiento con tera..."
+      }
+    ],
+    "Insulina": [
+      {
+        "document": "diabetes",
+        "context": " \n22 \n \nDiagnóstico y Tratamiento Farmacológico de la Diabetes Mellitus Tipo 2 en el Primer Nivel de Atención \nEn pacientes adultos con diagnóstico de diabetes mellitus tipo 2 en \ntratamiento con tera..."
+      }
+    ],
+    "Levotiroxina": [
+      {
+        "document": "hipotiroidismo",
+        "context": "Diagnóstico y Tratamiento de Hipotiroidismo Primario y Subclínico en el Adulto \n \n6 \n \nNo se recomienda el uso rutinario de ultrasonido tiroideo en pacientes con \nhipotiroidismo primario o subclínico...."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": "FUERTE \nGRADE \nEn adultos con hipotiroidismo primario sin comorbilidad cardiovascular, se \nrecomienda calcular la dosis inicial de levotiroxina de 1.6-1.8 mcg/kg/día en base al \npeso corporal actual. ..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": "FUERTE \nGRADE \nEn adultos con hipotiroidismo primario sin comorbilidad cardiovascular, se \nrecomienda calcular la dosis inicial de levotiroxina de 1.6-1.8 mcg/kg/día en base al \npeso corporal actual. ..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \n Con TSH en meta revalorar en 4 a 6 meses y después anualmente.  \nSe debe realizar ajustes de dosis cuando hay grandes cambios en el peso \ncorporal y en caso de embarazo. FUERTE \nGRADE \nNo se reco..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \n Con TSH en meta revalorar en 4 a 6 meses y después anualmente.  \nSe debe realizar ajustes de dosis cuando hay grandes cambios en el peso \ncorporal y en caso de embarazo. FUERTE \nGRADE \nNo se reco..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \n Con TSH en meta revalorar en 4 a 6 meses y después anualmente.  \nSe debe realizar ajustes de dosis cuando hay grandes cambios en el peso \ncorporal y en caso de embarazo. FUERTE \nGRADE \nNo se reco..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \nTSH mayor a 2.5 mUI/L con anti TPO positivos. C \nNICE \n \nSe recomienda iniciar tratamiento con levotiroxina en hipotiroidismo en el \nembarazo al presentar: \n \nTSH mayor o igual a 2.5 mUI/L con T4L..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \nTSH mayor a 2.5 mUI/L con anti TPO positivos. C \nNICE \n \nSe recomienda iniciar tratamiento con levotiroxina en hipotiroidismo en el \nembarazo al presentar: \n \nTSH mayor o igual a 2.5 mUI/L con T4L..."
+      },
+      {
+        "document": "hipotiroidismo",
+        "context": " \nTSH mayor a 2.5 mUI/L con anti TPO positivos. C \nNICE \n \nSe recomienda iniciar tratamiento con levotiroxina en hipotiroidismo en el \nembarazo al presentar: \n \nTSH mayor o igual a 2.5 mUI/L con T4L..."
+      }
+    ],
+    "Amoxicilina": [
+      {
+        "document": "neumonia",
+        "context": "Prevención, diagnóstico y tratamiento de la neumonía adquirida en la comunidad \n \n \n \n \nAlgoritmo 3. Tratamiento de pacientes con NAC \n \nTratamiento de pacientes con \nNeumonía adquirida en la \ncomunid..."
+      }
+    ],
+    "Ceftriaxona": [
+      {
+        "document": "neumonia",
+        "context": "Prevención, diagnóstico y tratamiento de la neumonía adquirida en la comunidad \n \n \n \n \nAlgoritmo 3. Tratamiento de pacientes con NAC \n \nTratamiento de pacientes con \nNeumonía adquirida en la \ncomunid..."
+      }
+    ],
+    "Paracetamol": [
+      {
+        "document": "cefalea",
+        "context": "Diagnóstico y tratamiento de  de cefalea tensional y migraña en el adulto. Primer y segundo nivel de atención \n \n \n \nSe debe considerar el uso de aspirina, paracetamol, o AINES como fármacos de primer..."
+      },
+      {
+        "document": "cefalea",
+        "context": "A\nNICE \n \n \n \nTRATAMIENTO \n \nRecomendación Clave \nGR* \nSe recomienda el uso de aspirina a dosis de 1000 mg y paracetamol 1000 mg en el \ntratamiento agudo de pacientes con cefalea tensional moderada a ..."
+      },
+      {
+        "document": "cefalea",
+        "context": "A\nNICE \n \nSe sugiere iniciar Amitriptilina a dosis de 10 a 12.5 mg por las noches e ir incrementando la \ndosis en 10 a 12.5 mg cada dos o tres semanas de acuerdo a respuesta y tolerancia; se deben \nto..."
+      },
+      {
+        "document": "cefalea",
+        "context": "A\nNICE \n \nSe sugiere iniciar Amitriptilina a dosis de 10 a 12.5 mg por las noches e ir incrementando la \ndosis en 10 a 12.5 mg cada dos o tres semanas de acuerdo a respuesta y tolerancia; se deben \nto..."
+      }
+    ],
+    "Ibuprofeno": [
+      {
+        "document": "cefalea",
+        "context": "A\nNICE \n \n \n \nTRATAMIENTO \n \nRecomendación Clave \nGR* \nSe recomienda el uso de aspirina a dosis de 1000 mg y paracetamol 1000 mg en el \ntratamiento agudo de pacientes con cefalea tensional moderada a ..."
+      }
+    ]
+  }
+}

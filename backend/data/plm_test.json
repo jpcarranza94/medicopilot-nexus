@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "scraped_at": "2025-10-24 15:35:09",
+  "total_medications": 1,
+  "successful_scrapes": 0,
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "indication": "pharyngitis",
+      "priority": "high",
+      "brands": [],
+      "scraped_at": "2025-10-24 15:34:55",
+      "scrape_status": "failed",
+      "error_message": "No brands found in search results"
+    }
+  ]
+}

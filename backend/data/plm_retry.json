@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "source": "PLM (medicamentosplm.com) - Real scraped data",
+  "scraped_at": "2025-10-24 15:49:45",
+  "total_medications": 4,
+  "successful_scrapes": 1,
+  "medications": [
+    {
+      "generic_name": "azitromicina",
+      "indication": "pharyngitis",
+      "priority": "medium",
+      "brands": [],
+      "scraped_at": "2025-10-24 15:47:26",
+      "scrape_status": "failed",
+      "error_message": "No brands found in search results"
+    },
+    {
+      "generic_name": "nitrofurantoína",
+      "indication": "uti",
+      "priority": "high",
+      "brands": [],
+      "scraped_at": "2025-10-24 15:48:01",
+      "scrape_status": "failed",
+      "error_message": "No brands found in search results"
+    },
+    {
+      "generic_name": "trimetoprim",
+      "indication": "uti",
+      "priority": "medium",
+      "brands": [],
+      "scraped_at": "2025-10-24 15:48:28",
+      "scrape_status": "failed",
+      "error_message": "No brands found in search results"
+    },
+    {
+      "generic_name": "bactrim",
+      "indication": "uti",
+      "priority": "medium",
+      "brands": [
+        {
+          "brand_name": "BACTRIM",
+          "laboratory": "WESER PHARMA",
+          "pharmaceutical_form": "Suspensión",
+          "presentation": "1 Caja, 1 Frasco(s), 100 mL, ",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/bactrim_suspension/2867/101/66280/194",
+          "product_id": "66280"
+        },
+        {
+          "brand_name": "BACTRIM F",
+          "laboratory": "WESER PHARMA",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "1 Caja, 15 Tabletas, ",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/bactrim_f_tabletas/2867/101/66361/210",
+          "product_id": "66361"
+        }
+      ],
+      "scraped_at": "2025-10-24 15:48:47",
+      "scrape_status": "success",
+      "error_message": null
+    }
+  ]
+}

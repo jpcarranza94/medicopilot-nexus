@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "description": "Test configuration - single medication",
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "indication": "pharyngitis",
+      "priority": "high",
+      "notes": "Test scrape"
+    }
+  ],
+  "scraper_settings": {
+    "delay_between_requests": 2,
+    "max_retries": 3,
+    "timeout": 30
+  }
+}

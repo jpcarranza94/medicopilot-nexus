@@ -1,0 +1,209 @@
+{
+  "version": "1.0",
+  "source": "Manual curation from PLM website",
+  "scraped_at": "2025-10-24 16:00:00",
+  "total_medications": 8,
+  "successful_scrapes": 8,
+  "medications": [
+    {
+      "generic_name": "amoxicilina",
+      "indication": "pharyngitis",
+      "priority": "high",
+      "brands": [
+        {
+          "brand_name": "Amoxil",
+          "laboratory": "GSK",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "500 mg, caja con 12 cápsulas",
+          "plm_url": "https://www.medicamentosplm.com/Home/productos/amoxil_c%C3%A1psulas/360/101/4821/210",
+          "active_substances": ["Amoxicilina"]
+        },
+        {
+          "brand_name": "Amoxicilina Pisa",
+          "laboratory": "Pisa",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 15 tabletas",
+          "plm_url": null,
+          "active_substances": ["Amoxicilina"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "First-line antibiotic for strep pharyngitis. Adult dose: 500mg TID x 10 days"
+    },
+    {
+      "generic_name": "azitromicina",
+      "indication": "pharyngitis",
+      "priority": "medium",
+      "brands": [
+        {
+          "brand_name": "Azitromicina Sandoz",
+          "laboratory": "Sandoz",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 3 tabletas",
+          "plm_url": null,
+          "active_substances": ["Azitromicina"]
+        },
+        {
+          "brand_name": "Azitromicina MK",
+          "laboratory": "MK",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 3 tabletas",
+          "plm_url": null,
+          "active_substances": ["Azitromicina"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Alternative for penicillin-allergic patients. Single daily dose x 3-5 days"
+    },
+    {
+      "generic_name": "penicilina benzatinica",
+      "indication": "pharyngitis",
+      "priority": "medium",
+      "brands": [
+        {
+          "brand_name": "Benzetacil",
+          "laboratory": "Pfizer",
+          "pharmaceutical_form": "Suspensión inyectable",
+          "presentation": "1,200,000 UI, frasco ámpula",
+          "plm_url": null,
+          "active_substances": ["Penicilina G benzatínica"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Single IM dose for strep pharyngitis. Ensures compliance"
+    },
+    {
+      "generic_name": "ciprofloxacino",
+      "indication": "uti",
+      "priority": "high",
+      "brands": [
+        {
+          "brand_name": "Cipro",
+          "laboratory": "Bayer",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 10 tabletas",
+          "plm_url": null,
+          "active_substances": ["Ciprofloxacino"]
+        },
+        {
+          "brand_name": "Ciprofloxacina MK",
+          "laboratory": "MK",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 6 tabletas",
+          "plm_url": null,
+          "active_substances": ["Ciprofloxacino"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Broad-spectrum quinolone for complicated UTI. 500mg BID x 7 days"
+    },
+    {
+      "generic_name": "nitrofurantoina",
+      "indication": "uti",
+      "priority": "high",
+      "brands": [
+        {
+          "brand_name": "Macrodantina",
+          "laboratory": "Almatica Pharma",
+          "pharmaceutical_form": "Cápsulas",
+          "presentation": "100 mg, caja con 20 cápsulas",
+          "plm_url": null,
+          "active_substances": ["Nitrofurantoína"]
+        },
+        {
+          "brand_name": "Nitrofurantoína Liomont",
+          "laboratory": "Liomont",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "100 mg, caja con 20 tabletas",
+          "plm_url": null,
+          "active_substances": ["Nitrofurantoína"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "First-line for uncomplicated UTI. 100mg QID x 7 days. Avoid if CrCl < 60"
+    },
+    {
+      "generic_name": "trimetoprima sulfametoxazol",
+      "indication": "uti",
+      "priority": "medium",
+      "brands": [
+        {
+          "brand_name": "Bactrim F",
+          "laboratory": "Roche",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "160/800 mg, caja con 14 tabletas",
+          "plm_url": null,
+          "active_substances": ["Trimetoprima", "Sulfametoxazol"]
+        },
+        {
+          "brand_name": "Septrin",
+          "laboratory": "GSK",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "160/800 mg, caja con 10 tabletas",
+          "plm_url": null,
+          "active_substances": ["Trimetoprima", "Sulfametoxazol"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Alternative UTI treatment. 1 tab BID x 3 days. Check local resistance patterns"
+    },
+    {
+      "generic_name": "ceftriaxona",
+      "indication": "both",
+      "priority": "low",
+      "brands": [
+        {
+          "brand_name": "Rocephin",
+          "laboratory": "Roche",
+          "pharmaceutical_form": "Polvo para solución inyectable",
+          "presentation": "1 g, frasco ámpula",
+          "plm_url": null,
+          "active_substances": ["Ceftriaxona"]
+        },
+        {
+          "brand_name": "Ceftriaxona Sandoz",
+          "laboratory": "Sandoz",
+          "pharmaceutical_form": "Polvo para solución inyectable",
+          "presentation": "1 g, frasco ámpula",
+          "plm_url": null,
+          "active_substances": ["Ceftriaxona"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Reserve antibiotic for severe infections requiring parenteral therapy"
+    },
+    {
+      "generic_name": "paracetamol",
+      "indication": "both",
+      "priority": "high",
+      "brands": [
+        {
+          "brand_name": "Tempra",
+          "laboratory": "Bristol Myers Squibb",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 20 tabletas",
+          "plm_url": null,
+          "active_substances": ["Paracetamol"]
+        },
+        {
+          "brand_name": "Paracetamol GI",
+          "laboratory": "GI Pisa",
+          "pharmaceutical_form": "Tabletas",
+          "presentation": "500 mg, caja con 10 tabletas",
+          "plm_url": null,
+          "active_substances": ["Paracetamol"]
+        }
+      ],
+      "scraped_at": "2025-10-24 16:00:00",
+      "scrape_status": "success",
+      "notes": "Analgesic and antipyretic. 500-1000mg q6-8h PRN. Max 4g/day"
+    }
+  ]
+}
